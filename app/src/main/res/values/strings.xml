@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Projectshih_TP</string>
+    <string name="commencer">Commencer</string>
+    <string name="water_reminder">Water Reminder</string>
+    <string name="suivant">Suivant</string>
+    <string name="heure_du_reveil">Heure du reveil</string>
+</resources>
